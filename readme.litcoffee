@@ -6,6 +6,7 @@ to flashes of lightning, his eye-balls to flaming torches, and whom God placed
 on a throne next to the throne of glory, received after this heavenly
 transformation the name [Metatron][meta].*
 
+![Ascension of the Metatron](extra/El-Shaddai-Ascension-of-the-Metatron.jpg)
 
 Metatron is an attempt to formalize and structure some patterns I had applied
 when dealing with a multitude of node.js packages and the need to impose some
