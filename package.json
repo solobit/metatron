@@ -1,0 +1,37 @@
+{
+  "name": "metatron",
+  "version": "0.0.1",
+  "description": "A meta-project structural analysis, inspection, parser and integration tool, much like Cartmans trapper-keeper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "meta-project",
+    "analysis",
+    "integrate",
+    "powertoy",
+    "mash-up",
+    "source",
+    "analysis",
+    "graphs"
+  ],
+  "author": "R. Jentzema <supersym>",
+  "license": "MIT",
+  "readmeFilename": "README.coffee.md",
+  "dependencies": {
+    "walkdir": "0.0.7",
+    "detective": "~2.1.1",
+    "winston": "~0.7.1",
+    "graceful-fs": "~1.2.1",
+    "trie": "~0.2.1",
+    "tokenish": "~0.1.2",
+    "transfigure": "~0.6.0",
+    "triecomplete": "0.0.1",
+    "path-trie": "~0.1.1",
+    "burrito": "~0.2.12",
+    "falafel": "~0.2.1",
+    "juice": "~0.4.0"
+  }
+}
